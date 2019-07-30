@@ -1,27 +1,27 @@
 # Activities
 ## Publications
 Select publications from our research group
-- Bain, Jennifer, Inga Behrendt, and Katherine Helsen. 2014. “Linienlose Neumen, Neumentrennung und Repräsentation von Neumen mit MEI Schema–Herausforderungen in der Arbeit im Optical Neume Recognition Project (ONRP).” In Digitale Rekonstruktionen mittelalterlicher Bibliotheken, edited by Sabine Philippi and Philipp Vanscheidt, 119–32. Trierer Beiträge zu den historischen Kulturwissenschaften 12. Wiesbaden: Ludwig Reichert.
+- Bain, Jennifer, Inga Behrendt, and Katherine Helsen. 2014. “Linienlose Neumen, Neumentrennung und Repräsentation von Neumen mit MEI Schema–Herausforderungen in der Arbeit im Optical Neume Recognition Project (ONRP).” In *Digitale Rekonstruktionen mittelalterlicher Bibliotheken*, edited by Sabine Philippi and Philipp Vanscheidt, 119–32. Trierer Beiträge zu den historischen Kulturwissenschaften 12. Wiesbaden: Ludwig Reichert.
 
-- Behrendt, Inga, Jennifer Bain, and Kate Helsen. 2017. “MEI Kodierung Der Frühesten Notation in Linienlosen Neumen.” Edited by Hannah Busch, Franz Fischer, and Patrick Sahle. Kodikologie Und Paläographie Im Digitalen Zeitalter / Codicology and Paleography in the Digital Age 4:281–96.
+- Behrendt, Inga, Jennifer Bain, and Kate Helsen. 2017. “MEI Kodierung Der Frühesten Notation in Linienlosen Neumen.” Edited by Hannah Busch, Franz Fischer, and Patrick Sahle. *Kodikologie Und Paläographie Im Digitalen Zeitalter / Codicology and Paleography in the Digital Age* 4:281–96.
 
-- Burlet, Gregory, Alastair Porter, Andrew Hankinson, and Ichiro Fujinaga. 2012. “Neon.Js: Neume Editor Online.” In Proceedings of the 13th International Society for Music Information Retrieval Conference (ISMIR), 121–26. Porto, Portugal.
+- Burlet, Gregory, Alastair Porter, Andrew Hankinson, and Ichiro Fujinaga. 2012. “Neon.Js: Neume Editor Online.” In *Proceedings of the 13th International Society for Music Information Retrieval Conference (ISMIR)*, 121–26. Porto, Portugal.
 
-- Haggh-Huglo, Barbara, and Debra Lacoste, eds. 2013. Papers Read at the 15th Meeting of the IMS Study Group ‘Cantus Planus’’, DobogókÅ, Hungary, 2009. Aug. 23-39.’ 3 vols. Lions Bay, BC, Canada: The Institute of Medieval Music.
+- Haggh-Huglo, Barbara, and Debra Lacoste, eds. 2013. *Papers Read at the 15th Meeting of the IMS Study Group ‘Cantus Planus’’, DobogókÅ, Hungary, 2009. Aug. 23-39.’* 3 vols. Lions Bay, BC, Canada: The Institute of Medieval Music.
 
-- Helsen, Kate, Jennifer Bain, Ichiro Fujinaga, Andrew Hankinson, and Debra Lacoste. 2014. “Optical Music Recognition and Manuscript Chant Sources.” Early Music 42:555–58.
+- Helsen, Kate, Jennifer Bain, Ichiro Fujinaga, Andrew Hankinson, and Debra Lacoste. 2014. “Optical Music Recognition and Manuscript Chant Sources.” *Early Music* 42:555–58.
 
-- Helsen, Kate, and Debra Lacoste. 2011. “A Report on the Encoding of Melodic Incipits in the Cantus Database with the Music Font ‘'Volpiano.’” Plainsong & Medieval Music 20 (1):51–65.
+- Helsen, Kate, and Debra Lacoste. 2011. “A Report on the Encoding of Melodic Incipits in the Cantus Database with the Music Font ‘'Volpiano.’” *Plainsong & Medieval Music* 20 (1):51–65.
 
-- Lacoste, Debra. 2011. “The Cantus Database: Mining for Medieval Chant Traditions.” In Digital Medievalist. Vol. 7. Barnard College.
+- Lacoste, Debra. 2011. “The Cantus Database: Mining for Medieval Chant Traditions.” In *Digital Medievalist*. Vol. 7. Barnard College.
 
-- Lacoste, Debra. 2013. “CANTUS: A Database for Latin Ecclesiastical Chant - Progress Report (2009).” In Papers Read at the 15th Meeting of the IMS Study Group “Cantus Planus”, DobogókÅ/Hungary, 2009. Aug. 23-29, 939–43. Lions Bay, BC, Canada: The Institute of Medieval Music.
+- Lacoste, Debra. 2013. “CANTUS: A Database for Latin Ecclesiastical Chant - Progress Report (2009).” In *Papers Read at the 15th Meeting of the IMS Study Group “Cantus Planus”, DobogókÅ/Hungary, 2009. Aug. 23-29*, 939–43. Lions Bay, BC, Canada: The Institute of Medieval Music.
 
-- Lacoste, Debra, and Jan Koláček. 2012. “Renewal, Revival, Rejuvenation: A New Vision for the Cantus Database.” In Cantus Planus: Study Group of the International Musicological Society - Papers Read at the 16th Meeting, Vienna, Austria, 2011, 202–9. Vienna: Verlag Brüder Hollinek.
+- Lacoste, Debra, and Jan Koláček. 2012. “Renewal, Revival, Rejuvenation: A New Vision for the Cantus Database.” In *Cantus Planus: Study Group of the International Musicological Society - Papers Read at the 16th Meeting, Vienna, Austria, 2011*, 202–9. Vienna: Verlag Brüder Hollinek.
 
-- Lacoste, Debra, and Jan Koláček. 2014. “CANTUS for Office and Mass: Building an Online Network of Chant Databases.” In Cantus Planus: Study Group of the International Musicological Society -- Papers Read at the 18th Meeting, Venice, Italy, 2014. Venice, Italy.
+- Lacoste, Debra, and Jan Koláček. 2014. “CANTUS for Office and Mass: Building an Online Network of Chant Databases.” In *Cantus Planus: Study Group of the International Musicological Society -- Papers Read at the 18th Meeting, Venice, Italy, 2014*. Venice, Italy.
 
-- Vigliensoni, Gabriel, John Ashley Burgoyne, Andrew Hankinson, and Ichiro Fujinaga. 2011. “Automatic Pitch Detection in Printed Square Notation.” In Proceedings of the 12th International Society for Music Information Retrieval Conference (ISMIR), 423–28. Miami, FL.
+- Vigliensoni, Gabriel, John Ashley Burgoyne, Andrew Hankinson, and Ichiro Fujinaga. 2011. “Automatic Pitch Detection in Printed Square Notation.” In *Proceedings of the 12th International Society for Music Information Retrieval Conference (ISMIR)*, 423–28. Miami, FL.
 
 ## Presentations
 - Bain, Jennifer. 2014. “Medieval Musicology in a Digital World: The Optical Neume Recognition Project.” Presented at the SSHRC-sponsored Connecting Cultures: Imagining Canada’s Future, Dalhousie University, Halifax, NS, March.
