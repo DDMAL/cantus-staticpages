@@ -7,7 +7,7 @@ Select publications from our research group
 
 - Burlet, Gregory, Alastair Porter, Andrew Hankinson, and Ichiro Fujinaga. 2012. “Neon.Js: Neume Editor Online.” In *Proceedings of the 13th International Society for Music Information Retrieval Conference (ISMIR)*, 121–26. Porto, Portugal.
 
-- Haggh-Huglo, Barbara, and Debra Lacoste, eds. 2013. *Papers Read at the 15th Meeting of the IMS Study Group ‘Cantus Planus’’, DobogókÅ, Hungary, 2009. Aug. 23-39.’* 3 vols. Lions Bay, BC, Canada: The Institute of Medieval Music.
+- Haggh-Huglo, Barbara, and Debra Lacoste, eds. 2013. *Papers Read at the 15th Meeting of the IMS Study Group ‘Cantus Planus’’, DobogókÅ, Hungary, 2009. Aug. 23-9*. 3 vols. Lions Bay, BC, Canada: The Institute of Medieval Music.
 
 - Helsen, Kate, Jennifer Bain, Ichiro Fujinaga, Andrew Hankinson, and Debra Lacoste. 2014. “Optical Music Recognition and Manuscript Chant Sources.” *Early Music* 42:555–58.
 
