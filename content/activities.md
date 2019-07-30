@@ -186,7 +186,7 @@ This workshop highlighted recent development in the SIMSSA project and the ELVIS
 - Jon Wild, CIRMMT, Schulich School of Music, McGill University
 - Timothy Wilfong, Schulich School of Music, McGill University
 
-[Cantus Ultimus Workshop: Building the ideal digital music library for plainchant](http://www.cirmmt.org/activities/workshops/research/ra3120908/event)
+### [Cantus Ultimus Workshop: Building the ideal digital music library for plainchant](http://www.cirmmt.org/activities/workshops/research/ra3120908/event)
 
 CIRMMT Research Workshop held at CIRMMT on September 8, 2012
 
