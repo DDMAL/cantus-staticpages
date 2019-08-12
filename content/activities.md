@@ -1,6 +1,7 @@
 # Activities
-## Publications
+### Publications
 Select publications from our research group
+
 - Bain, Jennifer, Inga Behrendt, and Katherine Helsen. 2014. “Linienlose Neumen, Neumentrennung und Repräsentation von Neumen mit MEI Schema–Herausforderungen in der Arbeit im Optical Neume Recognition Project (ONRP).” In *Digitale Rekonstruktionen mittelalterlicher Bibliotheken*, edited by Sabine Philippi and Philipp Vanscheidt, 119–32. Trierer Beiträge zu den historischen Kulturwissenschaften 12. Wiesbaden: Ludwig Reichert.
 
 - Behrendt, Inga, Jennifer Bain, and Kate Helsen. 2017. “MEI Kodierung Der Frühesten Notation in Linienlosen Neumen.” Edited by Hannah Busch, Franz Fischer, and Patrick Sahle. *Kodikologie Und Paläographie Im Digitalen Zeitalter / Codicology and Paleography in the Digital Age* 4:281–96.
@@ -23,7 +24,7 @@ Select publications from our research group
 
 - Vigliensoni, Gabriel, John Ashley Burgoyne, Andrew Hankinson, and Ichiro Fujinaga. 2011. “Automatic Pitch Detection in Printed Square Notation.” In *Proceedings of the 12th International Society for Music Information Retrieval Conference (ISMIR)*, 423–28. Miami, FL.
 
-## Presentations
+### Presentations
 - Bain, Jennifer. 2014. “Medieval Musicology in a Digital World: The Optical Neume Recognition Project.” Presented at the SSHRC-sponsored Connecting Cultures: Imagining Canada’s Future, Dalhousie University, Halifax, NS, March.
 
 - Bain, Jennifer. 2016. “Cantus Ultimus Project.” Presented at the Workshop on SIMSSA XI, AMS/SMT, Vancouver, BC, November 3.
@@ -130,7 +131,7 @@ Select publications from our research group
 
 - Swanson, Barbara. 2017. “Protocol Documents for Crowdsourcing.” Presented at the Symposium: Machine-Reading and Crowdsourcing Medieval Music Manuscripts, Eastman School of Music, Rochester, NY, October 26.
 
-## Media
+### Media
 - Bain, Jennifer. 2014a. “The Optical Neume Recognition Project.” Global News, March.
 
 - Bain, Jennifer. 2014b. “The Optical Neume Recognition Project.” Main Street. CBC Radio One, March.
@@ -143,9 +144,9 @@ Select publications from our research group
 
 - More activities from our research group can be found at simssa.ca
 
-## Workshops
+### Workshops
 
-### Symposium: Machine-Reading and Crowdsourcing Medieval Manuscripts
+#### Symposium: Machine-Reading and Crowdsourcing Medieval Manuscripts
 Eastman School of Music, Hatch Recital Hall
 
 Thursday, October 26, 2017
@@ -159,7 +160,7 @@ Thursday, October 26, 2017
 - Rebecca Shaw, Dalhousie University
 - Barbara Swanson, York University
 
-### [Workshop on SIMSSA IV: ONRP and Cantus Ultimus](http://www.cirmmt.org/activities/workshops/research/simssa0914/event)
+#### [Workshop on SIMSSA IV: ONRP and Cantus Ultimus](http://www.cirmmt.org/activities/workshops/research/simssa0914/event)
 CIRMMT Research workshop held at CIRMMT on September 29, 2014
 
 This workshop highlighted recent development in the SIMSSA project and the ELVIS (Electronic Locator of Vertical Interval Successions) project. Included presentations by guests from two other SSHRC projects: Optical Neume Recognition project and Cantus Ultimus project. Guests included:
@@ -186,7 +187,7 @@ This workshop highlighted recent development in the SIMSSA project and the ELVIS
 - Jon Wild, CIRMMT, Schulich School of Music, McGill University
 - Timothy Wilfong, Schulich School of Music, McGill University
 
-### [Cantus Ultimus Workshop: Building the ideal digital music library for plainchant](http://www.cirmmt.org/activities/workshops/research/ra3120908/event)
+#### [Cantus Ultimus Workshop: Building the ideal digital music library for plainchant](http://www.cirmmt.org/activities/workshops/research/ra3120908/event)
 
 CIRMMT Research Workshop held at CIRMMT on September 8, 2012
 
