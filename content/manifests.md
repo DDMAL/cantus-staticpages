@@ -1,3 +1,5 @@
+# Manuscripts and corresponding IIIF manifests
+
 | RISM-style siglum             | familiar name                | IIIF manifest                                                                           |
 |-------------------------------|------------------------------|-----------------------------------------------------------------------------------------|
 | CDN-Hsmu M2149.L4             | Salzinnes                    | https://lib.is/IE9434868/manifest                                                       |
@@ -23,18 +25,13 @@
 | GB-CCC Ms. 146                | Samson Pontifical            | https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/manifest.json           |
 | GB-LBL Add. 57337             | Anderson Pontifical (Brodie) |                                                                                         |
 | US-Cai 1911.142b              | Chicago Art Institute        |                                                                                         |
-|                               |                              |                                                                                         |
-| NEW:                          |                              |                                                                                         |
-| D-Gsta AB III 9               |                              |                                                                                         |
-|                               |                              |                                                                                         |
-| FRAGMENT COLLECTIONS:         |                              |                                                                                         |
+| *(new)* D-Gsta AB III 9       |                              |                                                                                         |
 | CDN-Mlr (41 fragments)        |                              |                                                                                         |
 | D-TRs (74 fragments)          |                              |                                                                                         |
 | US-CON (14 fragments)         |                              |                                                                                         |
 | Fragmentarium (Anna)          |                              |                                                                                         |
 | DACT fragments                |                              |                                                                                         |
 | Gottschalk fragments          |                              | https://fragmentarium.ms/metadata/iiif/F-75ud/manifest.json                             |
-|                               |                              |                                                                                         |
 | F-Pnm lat. 776                |                              | https://gallica.bnf.fr/iiif/ark:/12148/btv1b84546727/manifest.json                      |
 | F-Pnm lat. 1112               |                              | https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000450z/manifest.json                      |
 | CDN-WAwlul 1                  | Laurier hymnal               |                                                                                         |
