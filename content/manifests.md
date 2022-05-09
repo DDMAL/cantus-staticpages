@@ -23,7 +23,7 @@
 | CH-SGs 359                    |                              | https://www.e-codices.unifr.ch/metadata/iiif/csg-0359/manifest.json                     |
 | F-Pnm lat. 943                | Shirborn Pontifical          | https://gallica.bnf.fr/iiif/ark:/12148/btv1b6001165p/manifest.json                      |
 | GB-CCC Ms. 146                | Samson Pontifical            | https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/manifest.json           |
-| GB-Ob Can. Lit. 202			| 							   | https://iiif.bodleian.ox.ac.uk/iiif/manifest/8e4ae570-9fab-40b4-a83e-fe6bf8752daa.json  |
+| GB-Ob Can. Lit. 202	          |  					             		   | https://iiif.bodleian.ox.ac.uk/iiif/manifest/8e4ae570-9fab-40b4-a83e-fe6bf8752daa.json  |
 | GB-LBL Add. 57337             | Anderson Pontifical (Brodie) |                                                                                         |
 | US-Cai 1911.142b              | Chicago Art Institute        |                                                                                         |
 | *(new)* D-Gsta AB III 9       |                              |                                                                                         |
