@@ -3,7 +3,7 @@ Plainchant manuscripts are increasingly accessible online thanks to digitization
 
 Cantus Ultimus looks beyond mere digitization to imagine **fully-searchable plainchant manuscripts**. Open to all, Cantus Ultimus search tools will make it easier to discover, study, and interpret chant—for scholars, musicians, and the curious alike.
 
-Cantus Ultimus builds on the digital infrastructure of the existing [CANTUS database](http://cantus.uwaterloo.ca/), one of the oldest and most important scholarly music databases in the world.
+Cantus Ultimus builds on the digital infrastructure of the existing [CANTUS database](https://cantusdatabase.org), one of the oldest and most important scholarly music databases in the world.
 
 Combining the CANTUS database, digitized chant sources, and optical music recognition (OMR) will build CANTUS into Cantus Ultimus: a state-of-the-art research environment where both manuscript music and text are fully searchable.
 
@@ -12,7 +12,7 @@ In development, our manuscript browsing interface already enables searches by **
 View our [manuscript browsing interface](http://cantus.simssa.ca/manuscripts/).
 
 ### CANTUS database
-The [CANTUS database](http://cantus.uwaterloo.ca/) is a searchable digital archive of Latin plainchants. The database contains nearly 400,000 chant records from more than 130 manuscript and early print sources. Some records already include links to digitized manuscript images and many records include transcribed chant melodies that are searchable using the [Melody Search tool](http://cantus.uwaterloo.ca/melody).
+The [CANTUS database](https://cantusdatabase.org/) is a searchable digital archive of Latin plainchants. The database contains nearly 400,000 chant records from more than 130 manuscript and early print sources. Some records already include links to digitized manuscript images and many records include transcribed chant melodies that are searchable using the [Melody Search tool](https://cantusdatabase.org/melody).
 
 The CANTUS database is a collaborative endeavour. Chant scholars world-wide collect and catalogue inventories of early liturgical chant manuscripts. Through the CANTUS database, these inventories become available to other scholars and the public.
 
