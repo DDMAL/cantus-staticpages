@@ -3,7 +3,7 @@ Plainchant manuscripts are increasingly accessible online thanks to digitization
 
 Cantus Ultimus looks beyond mere digitization to imagine **fully-searchable plainchant manuscripts**. Open to all, Cantus Ultimus search tools will make it easier to discover, study, and interpret chant—for scholars, musicians, and the curious alike.
 
-Cantus Ultimus builds on the digital infrastructure of the existing [CANTUS database](http://cantus.uwaterloo.ca/), one of the oldest and most important scholarly music databases in the world.
+Cantus Ultimus builds on the digital infrastructure of the existing [CANTUS database](https://cantusdatabase.org), one of the oldest and most important scholarly music databases in the world.
 
 Combining the CANTUS database, digitized chant sources, and optical music recognition (OMR) will build CANTUS into Cantus Ultimus: a state-of-the-art research environment where both manuscript music and text are fully searchable.
 
