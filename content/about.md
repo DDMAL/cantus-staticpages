@@ -11,12 +11,14 @@ In development, our manuscript browsing interface already enables searches by **
 
 View our [manuscript browsing interface](http://cantus.simssa.ca/manuscripts/).
 
-### CANTUS database
-The [CANTUS database](https://cantusdatabase.org/) is a searchable digital archive of Latin plainchants. The database contains nearly 400,000 chant records from more than 130 manuscript and early print sources. Some records already include links to digitized manuscript images and many records include transcribed chant melodies that are searchable using the [Melody Search tool](https://cantusdatabase.org/melody).
+### The Cantus Database
 
-The CANTUS database is a collaborative endeavour. Chant scholars world-wide collect and catalogue inventories of early liturgical chant manuscripts. Through the CANTUS database, these inventories become available to other scholars and the public.
 
-Currently housed at the University of Waterloo under the direction of Debra Lacoste, the CANTUS database began in the late 1980s with Ruth Steiner at the Catholic University of America. Between 1998 and 2012 the database was housed at the University of Western Ontario under the direction of Terence Bailey.
+The [Cantus Database](https://cantusdatabase.org/) is a searchable digital archive of Latin plainchant. The database contains over 500,000 chant records from hundreds of manuscript and early print sources. Some records include links to digitized manuscript images and many records include transcribed chant melodies that are searchable using the [Melody Search tool](https://cantusdatabase.org/melody/).
+
+The Cantus Database is a collaborative endeavour. Chant scholars worldwide collect and catalogue inventories of early liturgical chant manuscripts. Through the Cantus Database, these inventories become available to other scholars and the public.
+
+Currently supported by the [Digital Analysis of Chant Transmission (DACT) project](https://dact-chant.ca/) under the direction of Jennifer Bain (Principal Investigator) and Debra Lacoste (Project Manager) with a grant held at Dalhousie University, the Cantus Database began in the late 1980s with Ruth Steiner at the Catholic University of America. Between 1997 and 2010 the database was housed at the University of Western Ontario under the direction of Terence Bailey. Between 2011 and 2019 it was housed at the University of Waterloo under the direction of Debra Lacoste with a grant held jointly by Christine McWebb and Jennifer Bain.
 
 ### Why Plainchant?
 Plainchant is of great musical, cultural, and historic significance.
