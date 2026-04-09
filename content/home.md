@@ -5,4 +5,4 @@ You can view currently available manuscripts on the **[Manuscripts page](manuscr
 
 This research is part of the [SIMSSA project](http://www.simssa.ca/).
 
-For more information, please contact [Ichiro Fujinaga](http://www.music.mcgill.ca/~ich/).
+For more information, please contact [Ichiro Fujinaga](https://ich.music.mcgill.ca/).
